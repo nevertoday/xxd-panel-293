@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-293
-description: "Create XXD Panel 293 raster artwork: a faithful photograph paired with one small poetic emblem, sophisticated naivete, a hint of character and risograph grain. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-293 or asks for this 诗意小章 style."
+description: "XXD Panel 293｜Poetic Little Stamp: keeps the photo and presses its subject into one small artist-made symbol with a story — simple rounded shapes, flat colour blocks and a hand-drawn contour, slightly clumsy, not fully symmetrical and gently exaggerated, perhaps with a tiny expression, a hinted movement or one odd little detail, while staying the original object rather than a new mascot — in coloured pencil, wax pastel, gouache and risograph-like print texture with paper grain, slight bleed and misregistration, in a warm limited palette of warm ivory, misty blue, sage green, soft coral, cream yellow and warm brown from the photo, small in generous whitespace with a short note like a zine or packaging label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-293 or asks for a poetic naive stamp, sophisticated-naive symbol or risograph art-card mark from a photo."
 ---
 
 # XXD Panel 293

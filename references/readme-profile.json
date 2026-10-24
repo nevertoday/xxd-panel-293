@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 293｜Poetic Little Stamp: keeps the photo and presses its subject into one small artist-made symbol with a story — simple rounded shapes, flat colour blocks and a hand-drawn contour, slightly clumsy, not fully symmetrical and gently exaggerated, perhaps with a tiny expression, a hinted movement or one odd little detail, while staying the original object rather than a new mascot — in coloured pencil, wax pastel, gouache and risograph-like print texture with paper grain, slight bleed and misregistration, in a warm limited palette of warm ivory, misty blue, sage green, soft coral, cream yellow and warm brown from the photo, small in generous whitespace with a short note like a zine or packaging label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-293 or asks for a poetic naive stamp, sophisticated-naive symbol or risograph art-card mark from a photo.",
+  "short_description": "诗意小章：把照片主体压成旧纸上一枚略笨、带一点小表情的手工诗意小章",
+  "zh-CN": {
+    "name": "诗意小章",
+    "tagline": "把照片主体压成旧纸上一枚略笨、有一点小表情的诗意小章。",
+    "look": "原照片保留；主体被收成简单圆润的形体、扁平色块和手绘轮廓，略笨拙、不完全对称、比例轻微夸张。可以加一点极小的表情、动作暗示或不协调的小细节，但它仍然是原来的那个东西，不变成新的吉祥物。纸上有彩铅、蜡笔、水粉和 Risograph 式的颗粒，轻微渗色和套印偏差，像印在旧纸或艺术卡片上的小图章。颜色温暖有限：暖象牙、雾蓝、鼠尾草绿、柔和珊瑚、奶油黄、暖棕。小章周围留白很大，旁边一句短注像独立小志或包装标签上的字。",
+    "traits": ["刻意稚拙", "旧纸图章", "轻微拟人", "丝网颗粒", "诗意留白"],
+    "good": [
+      "可以带一点小表情或动作的物件：一只茶壶、一盏台灯、一个邮筒、一双靴子",
+      "有点小故事的日常瞬间：排队的鸭子、晾在绳上的衣服、站在雨里的伞",
+      "想做成艺术卡片、独立小志插图或包装小章的照片"
+    ],
+    "poor": [
+      "需要写实细节和准确比例的照片：产品图、证件照、建筑测绘",
+      "想把主体做成新的卡通吉祥物或过度可爱形象的需求",
+      "想要光滑矢量、3D 或模板化图标的需求"
+    ]
+  },
+  "en": {
+    "name": "Poetic Little Stamp",
+    "tagline": "Presses the subject of your photo into one slightly clumsy poetic stamp on old paper, with a tiny expression.",
+    "look": "Your photo stays; the subject is gathered into simple rounded shapes, flat colour blocks and a hand-drawn contour, slightly clumsy, not quite symmetrical and gently exaggerated. A tiny expression, a hinted movement or one odd little detail may be added, but it remains the original thing and never becomes a new mascot. The paper shows coloured pencil, wax pastel, gouache and risograph-like grain, slight bleed and misregistration, like a little stamp printed on old paper or an art card. The palette is warm and limited: warm ivory, misty blue, sage green, soft coral, cream yellow and warm brown. Plenty of whitespace surrounds it, with one short note like lettering on a zine or a packaging label.",
+    "traits": ["Sophisticated naivety", "Old-paper stamp", "Light personification", "Screen-print grain", "Poetic whitespace"],
+    "good": [
+      "Objects that can take a tiny expression or gesture: a teapot, a desk lamp, a postbox, a pair of boots",
+      "Everyday moments with a small story: ducks in a line, clothes on a washing line, an umbrella standing in the rain",
+      "Photos you want as an art card, a zine illustration or a small packaging stamp"
+    ],
+    "poor": [
+      "Photos that need realistic detail and exact proportions: product shots, ID photos, architectural surveys",
+      "Wanting the subject turned into a new cartoon mascot or something overly cute",
+      "Requests for smooth vectors, 3D or template icons"
+    ]
+  },
+  "ja": {
+    "name": "詩のような小さなはんこ",
+    "tagline": "写真の主役を、古い紙に押した、少し不器用で小さな表情のある詩的なはんこにします。",
+    "look": "元の写真は残し、主役を単純な丸い形、平塗りの色面、手描きの輪郭にまとめます。少し不器用で、左右は完全には揃わず、比率もわずかに誇張されます。ごく小さな表情、動きの気配、ちょっと不釣り合いな細部を加えることもありますが、あくまで元の物のままで、新しいマスコットにはしません。紙には色鉛筆、クレヨン、ガッシュ、リソグラフのような粒子、軽いにじみ、版ずれがあり、古い紙やアートカードに刷った小さなはんこのようです。色は温かく少数のアイボリー、霧の青、セージグリーン、柔らかなコーラル、クリームイエロー、温かな茶です。まわりの余白は大きく、ZINEやパッケージのラベルのような短い一文が添えられます。",
+    "traits": ["洗練された素朴さ", "古紙のはんこ", "控えめな擬人化", "シルクスクリーンの粒", "詩的な余白"],
+    "good": [
+      "小さな表情やしぐさをつけられる物：ティーポット、デスクランプ、郵便ポスト、ブーツ",
+      "小さな物語のある日常の瞬間：一列に並ぶアヒル、物干しの洗濯物、雨の中に立つ傘",
+      "アートカード、ZINEの挿絵、パッケージの小さなはんこにしたい写真"
+    ],
+    "poor": [
+      "写実的な細部と正確な比率が必要な写真：商品写真、証明写真、建築の実測図",
+      "主役を新しいキャラクターやかわいさ過多の姿にしたい場合",
+      "なめらかなベクター、3D、テンプレート的なアイコンを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "시 같은 작은 도장",
+    "tagline": "사진 속 주인공을 옛 종이에 찍은, 조금 서툴고 작은 표정이 있는 시적인 도장으로 만듭니다.",
+    "look": "원본 사진은 남기고, 주인공을 단순한 둥근 형태, 평면 색면, 손그림 윤곽으로 모읍니다. 조금 서툴고 좌우가 완전히 같지 않으며 비례도 살짝 과장됩니다. 아주 작은 표정, 움직임의 암시, 살짝 어울리지 않는 작은 디테일을 더할 수 있지만, 원래의 그 물건 그대로이고 새 마스코트가 되지는 않습니다. 종이에는 색연필, 크레용, 과슈, 리소그래프 같은 입자와 살짝 번진 색, 판 어긋남이 있어 옛 종이나 아트 카드에 찍은 작은 도장 같습니다. 색은 따뜻하고 몇 가지뿐인 상아색, 안개 파랑, 세이지 그린, 부드러운 코랄, 크림 옐로, 따뜻한 갈색입니다. 주변 여백은 넓고, 독립 잡지나 포장 라벨 같은 짧은 한 줄이 붙습니다.",
+    "traits": ["세련된 서툶", "옛 종이 도장", "절제된 의인화", "실크스크린 입자", "시적인 여백"],
+    "good": [
+      "작은 표정이나 몸짓을 줄 수 있는 물건: 찻주전자, 탁상 조명, 우체통, 부츠 한 켤레",
+      "작은 이야기가 있는 일상의 순간: 줄지어 가는 오리, 빨랫줄의 옷, 빗속에 선 우산",
+      "아트 카드, 독립 잡지 삽화, 포장용 작은 도장으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사실적인 디테일과 정확한 비례가 필요한 사진: 제품 사진, 증명사진, 건축 실측",
+      "주인공을 새 캐릭터나 지나치게 귀여운 모습으로 바꾸고 싶은 경우",
+      "매끈한 벡터, 3D, 템플릿 같은 아이콘을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الختم الشعري الصغير",
+    "tagline": "يطبع العنصر الرئيسي في صورتك ختماً شعرياً صغيراً على ورق قديم، فيه شيء من الخرق وتعبير ضئيل.",
+    "look": "تبقى صورتك، ويُجمع العنصر في أشكال مستديرة بسيطة وبقع لونية مسطحة وخط خارجي يدوي، فيه شيء من الخرق وعدم التماثل ومبالغة لطيفة في النِسب. قد يُضاف تعبير صغير جداً أو إيحاء بحركة أو تفصيلة صغيرة غريبة، لكنه يبقى الشيء الأصلي نفسه ولا يتحول إلى تميمة جديدة. على الورق حبيبات الأقلام الملوّنة وأقلام الشمع والغواش وطباعة تشبه الريزوغراف، مع نزيف خفيف وانزياح في التسجيل، كختم صغير مطبوع على ورق قديم أو بطاقة فنية. الألوان دافئة ومحدودة: عاجي دافئ وأزرق ضبابي وأخضر مريمي ومرجاني ناعم وأصفر كريمي وبني دافئ. يحيط به فراغ واسع، ومعه ملاحظة قصيرة كأنها على مجلة مستقلة صغيرة أو بطاقة تغليف.",
+    "traits": ["سذاجة متقنة", "ختم على ورق قديم", "أنسنة خفيفة", "حبيبات الطباعة الحريرية", "فراغ شعري"],
+    "good": [
+      "أغراض يمكن أن تحمل تعبيراً أو إيماءة صغيرة: إبريق شاي، مصباح مكتب، صندوق بريد، زوج أحذية طويلة",
+      "لحظات يومية فيها حكاية صغيرة: بطّ يسير في صف، ملابس على حبل الغسيل، مظلة واقفة تحت المطر",
+      "صور تريدها بطاقة فنية أو رسماً لمجلة مستقلة صغيرة أو ختماً صغيراً على تغليف"
+    ],
+    "poor": [
+      "صور تحتاج تفاصيل واقعية ونِسباً دقيقة: صور المنتجات، صور الهوية، المسوحات المعمارية",
+      "الرغبة في تحويل العنصر إلى تميمة كرتونية جديدة أو شيء مفرط في اللطافة",
+      "طلب رسوم متجهية ناعمة أو مظهر ثلاثي الأبعاد أو أيقونات جاهزة"
+    ]
+  }
+}
